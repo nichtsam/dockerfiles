@@ -1,0 +1,1 @@
+An Image that Includes Docker and Aws-CLI.
